@@ -1,4 +1,4 @@
-# Troll programe made with python
+# Netflix clone made with HTML & CSS.
 
 ***_INFO:_***
 **AUTHOR:** ***EL GUAPO***
